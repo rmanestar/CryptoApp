@@ -21,6 +21,7 @@ Odabrani programski jezik:
 
 ## GUI
 
+![image](https://user-images.githubusercontent.com/45578967/134822549-bd6cd801-6b40-470f-97df-60f2f9bad5e8.png)
 
 
 ## Primjeri izvršavanja
