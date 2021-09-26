@@ -1,7 +1,7 @@
 # CryptoApp
 ## Opis aplikacije
 
-Aplikacija izrađena u sklopu kolegija "Operacijski sustavi 2".
+Aplikacija izrađena u sklopu kolegija: Operacijski sustavi 2.
 
 U aplikaciji mora biti implementiran:
 - algoritam za asimetričnu enkripciju (Po odabiru)
@@ -21,7 +21,9 @@ Odabrani programski jezik:
 
 ## GUI
 
-![image](https://user-images.githubusercontent.com/45578967/134822549-bd6cd801-6b40-470f-97df-60f2f9bad5e8.png)
+<p align="center">
+  <img width="800" height="500" src="https://user-images.githubusercontent.com/45578967/134822549-bd6cd801-6b40-470f-97df-60f2f9bad5e8.png">
+</p>
 
 
 ## Primjeri izvršavanja
