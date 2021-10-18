@@ -26,4 +26,3 @@ Odabrani programski jezik:
 </p>
 
 
-## Primjeri izvršavanja
